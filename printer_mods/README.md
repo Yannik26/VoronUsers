@@ -423,6 +423,7 @@ like so:
 | | [V0 PiCam Mount](./xbst_/V0_Picam)| A Raspberry Pi Camera Mount For V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | | [DuetZero](./xbst_/DuetZero) | Pi Zero mount over a Duet2 for space saving | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | Xceled | [Single Panel Magnet Mount](./xceled/Single_Panel_Magnet_Mount)| Mount your front panel using only magnets | :x: |:grey_question: |:heavy_check_mark: |:x:|
+| Yannik26 | [SW 270° screwed Hinges](./Yannik26/270_hinge_sw)| Replaces the print in place hinges with 270° hinges that use a screw as a hinge | :x: | :x: | :x: | :heavy_check_mark: | :x: |
 | Yenda | [SW More Robust XZ Belt Paths](./yenda/vsw_more_robust_belt_paths)| Small mods to belt routing components to ensure a better/more robust alignment | :x: | :x: | :x: | :heavy_check_mark: | :x: |
 | Yeri | [V0 Magnetic Panels](./yeri/V0_Magnetic_Panels)| Mount V0 panels with magnets, removes need for hinges and lets you easily detach sides for access | :heavy_check_mark: | :x: | :x: | :x: |
 | | [V1 3Z](./yeri/V1_3Z)| 3Z mod for V1 | :x: | :heavy_check_mark: | :x: | :x: |
